@@ -27,3 +27,5 @@ fighter.SetModifierTotal(hope);
 fighter.Engage(demon);
 Console.WriteLine(fighter.HitPoints());
 ```
+
+Test made for [Virtual Regatta](http://virtualregatta.com)
